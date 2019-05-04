@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#1565c0</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorRegister">#609633</color>
+    <color name="white">#FBFBFF</color>
+    <color name="ijomuda1">#1CB865</color>
+    <color name="biru1">#007bff</color>
+    <color name="inputext">#B1C4EF</color>
+    <color name="birutua">#20458c</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrey">#9E9E9E</color>
+    <color name="colorIndigo">#3F51B5</color>
+</resources>
