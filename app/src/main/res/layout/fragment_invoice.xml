@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.user.ecomerce.status_fragment.Invoice">
+    tools:context="app.tokoonline.status_fragment.Invoice">
 
     <!-- TODO: Update blank fragment layout -->
     <ScrollView

@@ -31,7 +31,8 @@
         android:textSize="20sp"
         android:textStyle="italic"
 
-        />
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="88dp" />
     
     <Button
         android:id="@+id/main_login_button"
@@ -47,7 +48,8 @@
         android:textAllCaps="false"
         android:textSize="18sp"
         android:text="Login"
-        android:textColor="@android:color/white"/>
+        android:textColor="@android:color/white"
+        android:layout_alignParentLeft="true" />
 
     <Button
         android:id="@+id/main_join_button"
@@ -63,6 +65,7 @@
         android:textAllCaps="false"
         android:textSize="18sp"
         android:text="Register"
-        android:textColor="@color/biru1"/>
+        android:textColor="@color/biru1"
+        android:layout_alignParentLeft="true" />
 
 </RelativeLayout>

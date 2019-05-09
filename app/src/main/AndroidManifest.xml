@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.user.ecomerce">
+    package="app.tokoonline">
 
     <application
         android:allowBackup="true"
@@ -24,6 +24,10 @@
         <activity android:name=".RegisterActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".HomeActivity" />
+        <activity android:name=".Status"/>
+        <activity android:name=".Cart"/>
+
+
     </application>
 
 </manifest>
